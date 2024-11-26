@@ -7,4 +7,7 @@
 > 
 > [uesvon](https://github.com/midgen/uesvon) [My Compiled for UE5.5](https://github.com/patrickhuangcheng/Nav3D/tree/UE-5.5)
 
+> [UESVONavigationTheEmidee](https://github.com/patrickhuangcheng/UESVONavigationTheEmidee/tree/5.3)
+
 > [DonAINav](https://github.com/FAUSheppy/DonAINavigation) [My Version](https://github.com/patrickhuangcheng/DonAINavigation)
+>
